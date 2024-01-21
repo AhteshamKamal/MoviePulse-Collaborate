@@ -36,8 +36,8 @@ The movie details, including title, genre, runtime, rating, poster, etc., are fe
 
 1. Clone or download this repository to your local machine.
 2. Install all the libraries mentioned in the requirements.txt file using the command `pip install -r requirements.txt`.
-3. Obtain your TMDB API key (as mentioned in the above section).
-4. Replace YOUR_TMDB_API_KEY in places (line no. 15 and 29) of the static/recommend.js file and save.
+3. Obtain your TMDB API key (as mentioned in the above section) and replace YOUR_API_KEY in Preprocess/preprocessing_4.ipynb.
+4. Replace YOUR_API_KEY in places (line no. 15 and 29) of the static/recommend.js and in Preprocess/preprocessing 3.ipynb file and save.
 5. Open your terminal/command prompt from your project directory and run the file main.py by executing the command `python main.py`.
 6. Open your browser and type http://127.0.0.1:5000/ in the address bar.
  
