@@ -8,8 +8,9 @@ The movie details, including title, genre, runtime, rating, poster, etc., are fe
 
 **How to get API keys:**
 
-Create an account at [The Movie Database (TMDB)](https://www.themoviedb.org/), and apply for an API key by navigating to the API link in your account settings.[TMDB API KEY]
-Visit https://www.omdbapi.com/, navigate to the "API" section or go to https://www.omdbapi.com/apikey.aspx, sign up or log in, generate your API key by providing details and agreeing to the terms of use.[OMDB API KEY]
+1.Create an account at [The Movie Database (TMDB)](https://www.themoviedb.org/), and apply for an API key by navigating to the API link in your account settings.[TMDB API KEY]
+
+2.Visit https://www.omdbapi.com/, navigate to the "API" section or go to https://www.omdbapi.com/apikey.aspx, sign up or log in, generate your API key by providing details and agreeing to the terms of use.[OMDB API KEY]
 
 **How to run the project:**
 
@@ -19,10 +20,11 @@ Visit https://www.omdbapi.com/, navigate to the "API" section or go to https://w
 4. Replace YOUR_TMDB_API_KEY in places (line no. 15 and 29) of the static/recommend.js file and save.
 5. Open your terminal/command prompt from your project directory and run the file main.py by executing the command `python main.py`.
 6. Open your browser and type http://127.0.0.1:5000/ in the address bar.
-7. 
-8. **How Cosine Similarity works:**
-9. 
+ 
+ **How Cosine Similarity works:**
+
 Cosine similarity is used to measure how similar two items are irrespective of their size. It calculates the cosine of the angle between two vectors projected in a multi-dimensional space. This is beneficial because even if two similar documents are far apart by Euclidean distance, they may still be oriented closer together.
+
 ![image](https://github.com/AhteshamKamal/MoviePulse-Collaborate/assets/84683903/c1210d0f-1a26-417e-ada2-27b51980a01e)
 
 **Sources of the datasets:**
