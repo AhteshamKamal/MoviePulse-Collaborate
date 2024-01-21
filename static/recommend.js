@@ -12,7 +12,7 @@ $(function() {
   source.addEventListener('input', inputHandler);
 
   $('.movie-button').on('click',function(){
-    var my_api_key = '7966eb3683d78eb9edd094fffb623942';
+    var my_api_key = 'Your_Api_Key'; //tmdb Api key
     var title = $('.movie').val();
     if (title=="") {
       $('.results').css('display','none');
@@ -26,7 +26,7 @@ $(function() {
 
 // will be invoked when clicking on the recommended movies
 function recommendcard(e){
-  var my_api_key = '7966eb3683d78eb9edd094fffb623942';
+  var my_api_key = 'Your_Api_Key'; //Tmdb Api Key
   var title = e.getAttribute('title'); 
   load_details(my_api_key,title);
 }
