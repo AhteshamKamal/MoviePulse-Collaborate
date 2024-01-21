@@ -20,7 +20,7 @@ The movie details, including title, genre, runtime, rating, poster, etc., are fe
 
 ![image](https://github.com/AhteshamKamal/MoviePulse-Collaborate/assets/84683903/602d3b4a-e98c-4afe-bbe7-5656ee14d7d9)
 
-![image](https://github.com/AhteshamKamal/MoviePulse-Collaborate/assets/84683903/0002268b-9157-4f05-959c-de500c2bb604)
+![image](https://github.com/AhteshamKamal/MoviePulse-Collaborate/assets/84683903/f0af3a32-41a6-422b-a004-a3dbcdc50835)
 
 ![image](https://github.com/AhteshamKamal/MoviePulse-Collaborate/assets/84683903/7cbc623e-b764-44a9-9cae-3d5824fc605e)
 
