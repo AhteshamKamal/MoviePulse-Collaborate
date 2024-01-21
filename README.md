@@ -6,6 +6,26 @@
 MoviePulse-Collaborate is a content-based recommender system that suggests movies similar to the ones users like. Additionally, it performs sentiment analysis on user reviews for those movies.
 The movie details, including title, genre, runtime, rating, poster, etc., are fetched using both the TMDB and OMDB APIs. For sentiment analysis, reviews given by users on the IMDB site are scraped using Beautiful Soup, and sentiment analysis is performed on those reviews.
 
+**Home Page**
+
+![image](https://github.com/AhteshamKamal/MoviePulse-Collaborate/assets/84683903/e6f9afcf-0dad-475c-8f1d-41ce85c31468)
+
+**Auto-complete example**
+
+![image](https://github.com/AhteshamKamal/MoviePulse-Collaborate/assets/84683903/1b854430-5379-4a30-9ad3-71fa18aacb84)
+
+**Main Content**
+
+![image](https://github.com/AhteshamKamal/MoviePulse-Collaborate/assets/84683903/39f1ff47-8ff8-45ba-99fa-b71ed838f07a)
+
+![image](https://github.com/AhteshamKamal/MoviePulse-Collaborate/assets/84683903/602d3b4a-e98c-4afe-bbe7-5656ee14d7d9)
+
+![image](https://github.com/AhteshamKamal/MoviePulse-Collaborate/assets/84683903/7cbc623e-b764-44a9-9cae-3d5824fc605e)
+
+![image](https://github.com/AhteshamKamal/MoviePulse-Collaborate/assets/84683903/9cc25335-3c7d-4794-9bc6-16ec37cf712a)
+
+
+
 **How to get API keys:**
 
 1.Create an account at [The Movie Database (TMDB)](https://www.themoviedb.org/), and apply for an API key by navigating to the API link in your account settings.[TMDB API KEY]
