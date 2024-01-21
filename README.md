@@ -47,13 +47,13 @@ How does the system identify which item closely matches the user's preferences?
 
 This is determined by similarity scores, numerical values ranging from zero to one. These scores gauge the likeness between two items based on their text details. Essentially, the similarity score measures how similar the textual information of two items is, and this comparison is achieved through a method known as cosine similarity. The higher the similarity score, the more alike the text details of the two items are considered to be.
  
- **How Cosine Similarity works:**
+ # How Cosine Similarity works:
 
 Cosine similarity is used to measure how similar two items are irrespective of their size. It calculates the cosine of the angle between two vectors projected in a multi-dimensional space. This is beneficial because even if two similar documents are far apart by Euclidean distance, they may still be oriented closer together.
 
 ![image](https://github.com/AhteshamKamal/MoviePulse-Collaborate/assets/84683903/c1210d0f-1a26-417e-ada2-27b51980a01e)
 
-**Sources of the datasets:**
+# Sources of the datasets:
 
 - IMDB 5000 Movie Dataset
 - The Movies Dataset
