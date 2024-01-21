@@ -34,7 +34,7 @@ Cosine similarity is used to measure how similar two items are irrespective of t
 - List of movies in 2018
 - List of movies in 2019
 - List of movies in 2020
-- 
+
   **Note:**
   
 This project utilizes the TMDB and OMDB APIs for movie details and combines them for an enhanced movie recommendation experience. The information is used for educational and non-commercial purposes. Copyrights for the movie data remain with the respective data sources.
