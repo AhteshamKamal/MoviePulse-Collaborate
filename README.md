@@ -1,5 +1,5 @@
 # MoviePulse-Collaborate
-![image](https://github.com/AhteshamKamal/MoviePulse-Collaborate/assets/84683903/1848621c-acc6-4f40-a57c-76013ac3b422)  ![image](https://github.com/AhteshamKamal/MoviePulse-Collaborate/assets/84683903/34ff05fc-f761-45dd-89de-87abf92265f3) ![image](https://github.com/AhteshamKamal/MoviePulse-Collaborate/assets/84683903/d272ad21-6455-4926-ae03-8bba4be821f0) ![image](https://github.com/AhteshamKamal/MoviePulse-Collaborate/assets/84683903/68bb48e3-caab-4313-9ff9-3af5841b4952) [![OMDB API](https://img.shields.io/badge/OMDB%20API-Get%20Key-orange)](https://www.omdbapi.com/apikey.aspx)
+![image](https://github.com/AhteshamKamal/MoviePulse-Collaborate/assets/84683903/1848621c-acc6-4f40-a57c-76013ac3b422)  ![image](https://github.com/AhteshamKamal/MoviePulse-Collaborate/assets/84683903/34ff05fc-f761-45dd-89de-87abf92265f3) ![image](https://github.com/AhteshamKamal/MoviePulse-Collaborate/assets/84683903/d272ad21-6455-4926-ae03-8bba4be821f0) ![image](https://github.com/AhteshamKamal/MoviePulse-Collaborate/assets/84683903/68bb48e3-caab-4313-9ff9-3af5841b4952) [![image](https://img.shields.io/badge/API-TMDB%20%20%7C%20OMDB-yellow)]
 
 **Description:**
 MoviePulse-Collaborate is a content-based recommender system that suggests movies similar to the ones users like. Additionally, it performs sentiment analysis on user reviews for those movies.
