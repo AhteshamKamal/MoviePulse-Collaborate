@@ -26,13 +26,13 @@ The movie details, including title, genre, runtime, rating, poster, etc., are fe
 
 
 
-**How to get API keys:**
+# How to get API keys:
 
 1.Create an account at [The Movie Database (TMDB)](https://www.themoviedb.org/), and apply for an API key by navigating to the API link in your account settings.[TMDB API KEY]
 
 2.Visit https://www.omdbapi.com/, navigate to the "API" section or go to https://www.omdbapi.com/apikey.aspx, sign up or log in, generate your API key by providing details and agreeing to the terms of use.[OMDB API KEY]
 
-**How to run the project:**
+# How to run the project:
 
 1. Clone or download this repository to your local machine.
 2. Install all the libraries mentioned in the requirements.txt file using the command `pip install -r requirements.txt`.
@@ -40,6 +40,12 @@ The movie details, including title, genre, runtime, rating, poster, etc., are fe
 4. Replace YOUR_API_KEY in places (line no. 15 and 29) of the static/recommend.js and in Preprocess/preprocessing 3.ipynb file and save.
 5. Open your terminal/command prompt from your project directory and run the file main.py by executing the command `python main.py`.
 6. Open your browser and type http://127.0.0.1:5000/ in the address bar.
+
+# Similarity Score :
+
+How does the system identify which item closely matches the user's preferences?
+
+This is determined by similarity scores, numerical values ranging from zero to one. These scores gauge the likeness between two items based on their text details. Essentially, the similarity score measures how similar the textual information of two items is, and this comparison is achieved through a method known as cosine similarity. The higher the similarity score, the more alike the text details of the two items are considered to be.
  
  **How Cosine Similarity works:**
 
